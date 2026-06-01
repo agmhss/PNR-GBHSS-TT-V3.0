@@ -6,7 +6,7 @@
 const APP_CONFIG = {
     fullName: "GBHSS PNR", 
     shortName: "GBHSS PNR",                                           
-    scriptUrl: "https://script.google.com/macros/s/AKfycbyd8tRhf0gzoKF__ysQVYunmLruK7EVF8DXOBx5_ubTPACGu1RcI66bkgCC5r3sF9We/exec" 
+    scriptUrl: "https://script.google.com/macros/s/AKfycbxEnWNq6QwaV4rCgA2iOlgJHCUVt2f-oqQF2--pHl-OGvtfIKG7TpSiuAWfZEpEVW2dRQ/exec" 
 };
 const SCRIPT_URL = APP_CONFIG.scriptUrl;
 
